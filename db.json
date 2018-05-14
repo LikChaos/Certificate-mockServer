@@ -1,0 +1,121 @@
+{
+  "Certificate": [
+    {
+      "id": 1,
+      "code": "123",
+      "copy": false,
+      "description": "",
+      "issueData": "2018-05-14T09:17:35.441Z",
+      "idCertificate": 0,
+      "identification": "",
+      "type": {
+        "id": 0,
+        "name": ""
+      },
+      "status": {
+        "id": 0,
+        "name": ""
+      },
+      "transitCountries": [
+        {
+          "id": "3",
+          "name": "China"
+        }
+      ],
+      "importingCompany": {
+        "id": 0,
+        "name": "",
+        "address": "",
+        "representative": ""
+      },
+      "importingCountry": {
+        "id": "1",
+        "name": "Russia",
+        "code": "01"
+      },
+      "exportingCompany": {
+        "id": 1,
+        "name": "Alfy",
+        "address": "Russia",
+        "representative": "Ivan"
+      },
+      "exportingCountry": {
+        "id": "2",
+        "name": "Australia",
+        "code": "02"
+      },
+      "loadingPort": {
+        "id": 0,
+        "name": "",
+        "country": {}
+      },
+      "dischargePort": {
+        "id": 0,
+        "name": "",
+        "country": {}
+      },
+      "product": {
+        "classification": {
+          "id": 0,
+          "name": "",
+          "latinName": ""
+        },
+        "comments": "",
+        "commonName": "",
+        "description": "",
+        "expiry": "2018-05-14T09:17:35.441Z",
+        "grossValue": 0,
+        "grossWeight": 0,
+        "id": 0,
+        "idWeight": 0,
+        "intendedUse": "",
+        "netValue": 0,
+        "netWeight": 0
+      },
+      "consignment": {
+        "id": 0,
+        "availabilityDate": "2018-05-14T09:17:35.441Z",
+        "exportExit": "2018-05-14T09:17:35.441Z",
+        "shipStore": {},
+        "cargoType": {}
+      }
+    }
+  ],
+  "Country": [
+    {
+      "id": "1",
+      "name": "Russia",
+      "code": "01"
+    },
+    {
+      "id": "2",
+      "name": "Australia",
+      "code": "02"
+    },
+    {
+      "id": "3",
+      "name": "China",
+      "code": "03"
+    }
+  ],
+  "Party": [
+    {
+      "id": 1,
+      "name": "Alfy",
+      "address": "Russia",
+      "representative": "Ivan"
+    },
+    {
+      "id": 2,
+      "name": "Beta",
+      "address": "Australia",
+      "representative": "Ivan"
+    },
+    {
+      "id": 3,
+      "name": "Gamma",
+      "address": "China",
+      "representative": "Ivan"
+    }
+  ]
+}
